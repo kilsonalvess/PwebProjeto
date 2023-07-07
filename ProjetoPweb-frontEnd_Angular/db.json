@@ -1,0 +1,33 @@
+{
+  "Contas": [
+    {
+      "agencia": "",
+      "saldo": 2,
+      "cpf": "123",
+      "id": 2
+    },
+    {
+      "saldo": 10,
+      "cpf": "12",
+      "id": 3
+    }
+  ],
+  "Usuarios": [
+    {
+      "username": "kilson",
+      "password": "321",
+      "nome": "kilson alves",
+      "idade": "33",
+      "cpf": "123",
+      "id": 2
+    },
+    {
+      "username": "kilson",
+      "password": "123",
+      "nome": "",
+      "idade": 0,
+      "cpf": "12",
+      "id": 3
+    }
+  ]
+}

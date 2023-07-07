@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-principal {
+  /* Estilos adicionais para o cartão */
+  background-color: grey;
+}
+
+.texto-branco {
+  color: black;
+}
+
+.button{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+.botaodireito{
+  left:2%;
+
+}
+
+.card-header{
+  background-color: whitesmoke;
+}
+
+.card-principal{
+  background-color: whitesmoke;
+}
